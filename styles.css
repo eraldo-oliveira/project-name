@@ -1,0 +1,53 @@
+
+.central {
+    width: 45%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.flex {
+    display: flex;
+}
+
+.box1 {
+    margin-right: 10px;
+    width: 50%;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    width: 45%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+ul {
+    list-style-type: none; /* Remove os pontos da lista */
+    padding: 0;
+}
+li {
+    margin-bottom: 2px; /* Espaçamento entre os itens */
+}
+label {
+    display: inline-block; /* Alinha os labels ao lado dos checkboxes */
+}
+
+.largura-total {
+    background-color:#DBECFF;
+    padding: 120px 0;
+}
+
+.box2 {
+    margin-right: 10px;
+    width: 50%;
+}
+
+.largura-final {
+    background-color:#DBECFF;
+    padding: 32px 0;
+}
+
